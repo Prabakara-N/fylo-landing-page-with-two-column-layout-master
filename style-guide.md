@@ -1,37 +1,46 @@
-# Front-end Style Guide
+  <!-- Features
+  Team
+  Sign In
 
-## Layout
+  All your files in one secure location, accessible anywhere.
 
-The designs were created to the following widths:
+  Fylo stores your most important files in one secure location. 
+  Access them wherever you need, share and collaborate with friends, 
+  family, and co-workers.
 
-- Mobile: 375px
-- Desktop: 1440px
+  Get Started
 
-## Colors
+  Stay productive, wherever you are
 
-### Primary
+  Never let location be an issue when accessing your files. Fylo has you 
+  covered for all of your file storage needs.
 
-- Very Dark Blue: hsl(243, 87%, 12%)
-- Desaturated Blue: hsl(238, 22%, 44%)
+  Securely share files and folders with friends, family and colleagues for 
+  live collaboration. No email attachments required!
 
-### Accent
+  See how Fylo works
 
-- Bright Blue: hsl(224, 93%, 58%)
-- Moderate Cyan: hsl(170, 45%, 43%)
+  Fylo has improved our team productivity by an order of magnitude. Since 
+  making the switch our team has become a well-oiled collaboration machine.
 
-### Neutral
+  Kyle Burton
+  Founder & CEO, Huddle
 
-- Light Grayish Blue: hsl(240, 75%, 98%)
-- Light Gray: hsl(0, 0%, 75%)
+  Get early access today
 
-## Typography
+  It only takes a minute to sign up and our free starter tier is extremely generous. 
+  If you have any questions, our support team would be happy to help you.
 
-### Headings, Call-to-actions, Header Navigation
+  Get Started For Free
 
-- Family: [Raleway](https://fonts.google.com/specimen/Raleway)
-- Weights: 400, 700
+  Phone: +1-543-123-4567
+  example@fylo.com
 
-### Body
+  About Us
+  Jobs
+  Press
+  Blog
 
-- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
-- Weights: 400
+  Contact Us
+  Terms
+  Privacy -->
